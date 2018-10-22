@@ -22,3 +22,7 @@ There is one source to collect the newly created data. It’s on Yahoo financial
 4. https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC
 5. https://finance.yahoo.com/quote/%5ERUT?p=^RUT
 
+
+# IV: Difficulty, challenging:
+Predicting stock price is not easy. In this project, I tried to provide the overviews and prediction models to predict SQ stock price. A big challanging in predict stock price is the acuracy of the prediction. 
+

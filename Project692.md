@@ -190,7 +190,10 @@ There is one source to collect the newly created data. It’s on Yahoo financial
 
 5. https://finance.yahoo.com/quote/%5ERUT?p=^RUT
 
+# IV: Conclusion:
+Machine Learning Regression and Time Series Regressions methods are applied to analyze and predict the SQ stock price.  Both methods generated good results. Even thought, both results are not the same but both results are close to each other. Time Series regression provided deep into detail level. The detail is the trend and future projections of SQ stock price. Machine Learning Regression provided the overview with an estimated projection.  
+The results are covered from the historical data with validated at the graph level.  Below is the up to dated SQ stock price from Yahoo finance page.  Up to dated SQ price, can use to compare with Time Series Regression graph and validated. 
 
-# IV: Difficulty, challenging.
+# V: Difficulty, challenging.
 Predicting stock price is not easy. In this project, I tried to provide the overviews and prediction models to predict SQ stock price. A big challanging in predict stock price is the acuracy of the prediction. 
 

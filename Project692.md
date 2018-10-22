@@ -75,9 +75,13 @@ F-statistic: 258.8 on 5 and 116 DF,  p-value: < 2.2e-16
 # III: Data Sources.
 There is one source to collect the newly created data. It’s on Yahoo financial. It’s free of charge.  There are two datasets will be used for this. Besides, SQ, there are other variables are added to the dataset. SP500, NASDAQ, DOWJONES, and RUSSELLS 2000 . The date range for the data will cover from 11/15/2018 to up to date.  It could be a day before weekly report due. O would like to work with the live data because it will give the more accuracy results. 
 1: https://finance.yahoo.com/quote/SQ/history?p=SQ
+
 2: https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC
+
 3. https://finance.yahoo.com/quote/%5EDJI?p=^DJI
+
 4. https://finance.yahoo.com/quote/%5EIXIC?p=^IXIC
+
 5. https://finance.yahoo.com/quote/%5ERUT?p=^RUT
 
 

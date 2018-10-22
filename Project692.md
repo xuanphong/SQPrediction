@@ -175,6 +175,7 @@ Warning messages:
 > plot(SQ_Price_Forecast_2019_h12)
 
 ```
+# Graphs 
 
 # III: Data Sources.
 There is one source to collect the newly created data. It’s on Yahoo financial. It’s free of charge.  There are two datasets will be used for this. Besides, SQ, there are other variables are added to the dataset. SP500, NASDAQ, DOWJONES, and RUSSELLS 2000 . The date range for the data will cover from 11/15/2018 to up to date.  It could be a day before weekly report due. O would like to work with the live data because it will give the more accuracy results. 
